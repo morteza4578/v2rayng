@@ -1,6 +1,7 @@
-vless://41e82b3f-d939-4c3d-83c1-09d7ff57526f@95.38.242.93:35021?security=none&encryption=none&headerType=none&type=tcp#vpn+shield
-vless://16a4381c-9c3b-4f8c-a90c-d98d393498f2@213.176.126.149:43215?security=none&encryption=none&headerType=none&type=tcp#vpn+shield
-vless://65a086e5-c28e-43f9-ed26-7477831a63da@185.46.0.192:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#vpn+shield
-vless://3927c752-2778-4d17-8730-8ea06d6c2ea9@2.189.59.3:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#vpn+shield
-vless://3927c752-2778-4d17-8730-8ea06d6c2ea9@2.189.59.4:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#vpn+shield
-vless://3927c752-2778-4d17-8730-8ea06d6c2ea9@2.189.59.7:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Channel%3A%40UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#vpn+shield
+vless://0fc67113-1f57-4428-8efa-c601f7699828@217.60.252.121:6710?security=none&encryption=none&headerType=http&type=tcp#morteza
+vmess://eyJhZGQiOiI5NC4xODIuMTM4LjEwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiI3YTNhYTcwZC03MjZjLTRiYTQtZWQ1Yy05ZGZmNWI3ZDYxYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyNjk4OSIsInBzIjoibW9ydGV6YSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://aeb75146-9e0f-4cc5-af43-066e02b9e0a3@95.38.245.78:47725?path=%2F&security=none&encryption=none&type=ws#morteza
+vmess://eyJhZGQiOiI4Ny4yMzYuMjEzLjEyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmMGU3MWI2ZS05MjRjLTQ3NzgtYjM1Mi1mYjAyNmEwNDJlMWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg0NDMiLCJwcyI6Im1vcnRlemEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#morteza
+vless://5b88fdcc-2084-44be-bd27-190adf0331b0@194.60.231.23:53414?security=none&encryption=none&headerType=none&type=tcp#morteza
+vless://5b88fdcc-2084-44be-bd27-190adf0331b0@194.60.231.23:53414?security=none&encryption=none&headerType=none&type=tcp#morteza
